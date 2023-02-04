@@ -1,0 +1,14 @@
+<suite name="Suite1" verbose="1" >
+  <test name="Nopackage" >
+    <classes>
+       <class name="com.testscript.TC001" />
+    </classesname="com.testscript.TC002" />
+  </test>
+ 
+  <test name="Regression1">
+    <classes>
+      <class name="com.testscript.TC001"/>
+      <class name="com.testscript.TC002"/>
+    </classes>
+  </test>
+</suite>
